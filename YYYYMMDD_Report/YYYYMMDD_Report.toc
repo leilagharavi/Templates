@@ -1,0 +1,18 @@
+\contentsline {section}{\numberline {1}PhD Research}{2}{section.1}% 
+\contentsline {subsection}{\numberline {1.1}General Update}{2}{subsection.1.1}% 
+\contentsline {subsection}{\numberline {1.2}Technical Details}{2}{subsection.1.2}% 
+\contentsline {subsubsection}{\numberline {1.2.1}Problem Statement}{2}{subsubsection.1.2.1}% 
+\contentsline {subsubsection}{\numberline {1.2.2}Grid Generation and MMPS Approximation}{5}{subsubsection.1.2.2}% 
+\contentsline {subsubsection}{\numberline {1.2.3}Approximation Results}{7}{subsubsection.1.2.3}% 
+\contentsline {subsubsection}{\numberline {1.2.4}Conclusions}{14}{subsubsection.1.2.4}% 
+\contentsline {subsection}{\numberline {1.3}Next Steps}{16}{subsection.1.3}% 
+\contentsline {section}{\numberline {2}MSc Supervision}{17}{section.2}% 
+\contentsline {subsection}{\numberline {2.1}General Update}{17}{subsection.2.1}% 
+\contentsline {subsection}{\numberline {2.2}Updates per Case}{17}{subsection.2.2}% 
+\contentsline {subsubsection}{\numberline {2.2.1}Pietro (TUD(CoR)/PoliMi)}{17}{subsubsection.2.2.1}% 
+\contentsline {subsubsection}{\numberline {2.2.2}Jelske (DCSC)}{18}{subsubsection.2.2.2}% 
+\contentsline {subsubsection}{\numberline {2.2.3}Roald (CoR/DCSC)}{18}{subsubsection.2.2.3}% 
+\contentsline {section}{\numberline {3}Other Activities}{18}{section.3}% 
+\contentsline {subsection}{\numberline {3.1}Performed Activities}{18}{subsection.3.1}% 
+\contentsline {subsection}{\numberline {3.2}Future Planned Activities (next 3 months)}{19}{subsection.3.2}% 
+\contentsline {section}{\numberline {4}Planning Ahead}{19}{section.4}% 
