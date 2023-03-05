@@ -6,3 +6,7 @@ This is the template I use during my PhD for activity reports before weekly  mee
 * _YYYYMMDD_ is the format I use to indicate the report date.
 * Everytime you run it, it generates a random color that is assigned to the title, textboxes or lines. 
 
+## YYYYMMDD_MSc 
+
+* _YYYYMMDD_ is the format I use to indicate the report date.
+* This is the template I use for sending my proposals for MSc thesis projects in TU Delft. 
